@@ -128,13 +128,34 @@ body {
 
 .last-banner a {
     text-decoration: none;
-    background-image:
-        margin: 10px;
+    background-image: linear-gradient(red, orange);
+    margin: 10px;
     font-weight: 800;
     padding: 8px 12px;
     border-radius: 5px;
+    padding-bottom: 5px;
+    padding-top: 5px;
 }
 
 .last-banner a:hover {
     color: coral;
+}
+
+.info-added {
+    display: flex;
+    background-image: url(image/black-background.htm);
+    padding: 20px 20px;
+
+}
+
+.info-added h4 {
+    padding-right: 30%;
+}
+
+.info-added a {
+    background-image: linear-gradient(pink, tomato);
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    font-weight: 800;
 }
