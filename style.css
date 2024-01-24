@@ -60,3 +60,81 @@ body {
     height: 100%;
     width: 50%;
 }
+
+
+
+.head1 {
+    margin-top: 10%;
+    /* margin-left: 50%; */
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.symbol-container {
+    display: flex;
+    margin-top: 5%;
+
+}
+
+.symbol-img1 {
+    text-align: center;
+
+}
+
+.symbol-img2 {
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 10%;
+
+
+}
+
+.symbol-img3 {
+    text-align: center;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+
+.name1 {}
+
+.name2 {
+    margin-top: 25%;
+}
+
+.name3 {
+    margin-top: 30%;
+}
+
+/* .last-container {
+    text-align: center;
+    margin-top: 40px;
+
+} */
+.container {}
+
+.last-banner {
+    text-align: right;
+    margin-top: 50px;
+    background-image: linear-gradient(45deg,
+            rgba(245, 70, 66, 0.75),
+            rgba(8, 83, 156, 0.75)), url(image/3.webp);
+    padding: 10px;
+    background-image: linear-gradient(hotpink, );
+    margin: 100px;
+
+
+}
+
+.last-banner a {
+    text-decoration: none;
+    background-image:
+        margin: 10px;
+    font-weight: 800;
+    padding: 8px 12px;
+    border-radius: 5px;
+}
+
+.last-banner a:hover {
+    color: coral;
+}
